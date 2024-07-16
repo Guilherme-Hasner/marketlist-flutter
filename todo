@@ -1,0 +1,6 @@
+- Comentar e organizar código criando funções para segmentá-lo
+- ItemForm, CategForm, MarketList
+- Aplicar Design do Figma
+
+* Observações
+  . Salvar imagens em assets/images/saved/ como (${categ}_${item}).replaceAll(" ", "").toLower();
